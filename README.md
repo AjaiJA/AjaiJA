@@ -1,15 +1,22 @@
 ### Hi there 👋
 
-**AjaiJA/AjaiJA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄I'm Ajai.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Data Structures and LINUX.
+🔭 I’m currently pursuing my MCA at PSG College of Technology, Coimbatore.
+💬 I’m looking to collaborate with people, Who are ready to help each other.
+🤔 I'm looking for Experienced people who can guide me through the path which i want to be...
+🥅 2021 Aims: To Learn Linux, Dart and AngularJS...
+⚡ Focusing on something.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+[LinkedIN](https://www.linkedin.com/in/ajaija/)
+[Twitter](https://twitter.com/Ajai__JA)
+[Instagram](https://www.instagram.com/ajai_ja/)
+
+💬 Connect with me:
+[Stack Overflow](https://stackoverflow.com/users/12341806/ajaija)
+[Hacker Rank](https://www.hackerrank.com/AjaiJA)
+
+
+

@@ -1,4 +1,4 @@
-### Hi there, I'm *Ajai* 👋.
+### Hi there👋, I'm *Ajai*.
    
   - 🌱 currently learning Data Structures and LINUX.
   - 🔭 currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*.

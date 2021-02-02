@@ -17,7 +17,7 @@
 <br>
 <br>
 
-### 📫Connect with me : <br><br>
+### 📫Connect with me : <br>
 
   [<img align="left" alt="Github" width="40px" title="Github" src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1612292921~hmac=6a17cd454b47f8ff605f2f5a842906ae" />](https://github.com/AjaiJA/)
   [<img align="left" alt="Stack Overflow" width="40px" title="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)

@@ -9,13 +9,13 @@
     🥅 2021 Aims: To Learn Linux, Dart and AngularJS...--
     ⚡ Focusing on something.--
 
- 📫 How to reach me:
-[LinkedIN](https://www.linkedin.com/in/ajaija/)
+ 📫 How to reach me:<br>
+![alt text](http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png)(https://www.linkedin.com/in/ajaija/)
 [Twitter](https://twitter.com/Ajai__JA)
 [Instagram](https://www.instagram.com/ajai_ja/)
 
- 💬 Connect with me:
-[StackOverflow](https://stackoverflow.com/users/12341806/ajaija)
+ 💬 Connect with me:<br>
+[StackOverflow](https://stackoverflow.com/users/12341806/ajaija?tab=profile)
 [HackerRank](https://www.hackerrank.com/AjaiJA)
 
 

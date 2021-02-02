@@ -2,10 +2,10 @@
 
 😄I'm Ajai.
 
-🌱 I’m currently learning Data Structures and LINUX.--
-🔭 I’m currently pursuing my MCA at PSG College of Technology, Coimbatore.--
-💬 I’m looking to collaborate with people, Who are ready to help each other.--
-🤔 I'm looking for Experienced people who can guide me through the path which i want to be...--
+🌱 I’m currently learning Data Structures and LINUX.<br>
+🔭 I’m currently pursuing my MCA at PSG College of Technology, Coimbatore.<br>
+💬 I’m looking to collaborate with people, Who are ready to help each other.<br>
+🤔 I'm looking for Experienced people who can guide me through the path which i want to be...<br>
 🥅 2021 Aims: To Learn Linux, Dart and AngularJS...--
 ⚡ Focusing on something.--
 
@@ -15,8 +15,8 @@
 [Instagram](https://www.instagram.com/ajai_ja/)
 
 💬 Connect with me:
-[Stack Overflow](https://stackoverflow.com/users/12341806/ajaija)
-[Hacker Rank](https://www.hackerrank.com/AjaiJA)
+[StackOverflow](https://stackoverflow.com/users/12341806/ajaija)
+[HackerRank](https://www.hackerrank.com/AjaiJA)
 
 
 

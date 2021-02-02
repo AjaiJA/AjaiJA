@@ -1,15 +1,15 @@
 ### Hi there 👋
   😄I'm *Ajai*.
    
-  - 🌱  currently learning Data Structures and LINUX.
-  - 🔭  currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*.
-  - 💬  looking to collaborate with people, Who are ready to help each other.
-  - 🤔  seeking for Experienced people who can guide me through the path which i want to be.
-  - 🥅  2021 Aims: To Learn Linux, Dart and AngularJS...
-  - ⚡  Focusing on something.
+    - 🌱  currently learning Data Structures and LINUX.
+    - 🔭  currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*.
+    - 💬  looking to collaborate with people, Who are ready to help each other.
+    - 🤔  seeking for Experienced people who can guide me through the path which i want to be.
+    - 🥅  2021 Aims: To Learn Linux, Dart and AngularJS...
+    - ⚡  Focusing on something.
    
 
-#### 📫 How to Contact me:<br>
+#### 📫 Wanna Contact me:<br>
 
    [<img align="left" alt="Twitter" title="Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />](https://twitter.com/Ajai__JA)
    [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)

@@ -21,6 +21,6 @@
 #### 💬 Connect with me : <br>
 
   [<img align="left" alt="Github" width="32px" title="Github" src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1612292921~hmac=6a17cd454b47f8ff605f2f5a842906ae" />](https://github.com/AjaiJA/)
-  [<img align="left" alt="Stack Overflow" width="32px" title="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)
-  [<img align="left" alt="Hackerrank" width="32px" title="Hacker Rank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />](https://www.hackerrank.com/AjaiJA)
+  [<img align="left" alt="Stack Overflow" width="35px" title="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)
+  [<img align="left" alt="Hackerrank" width="35px" title="Hacker Rank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />](https://www.hackerrank.com/AjaiJA)
 

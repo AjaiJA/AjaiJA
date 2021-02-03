@@ -10,7 +10,7 @@
 
 ### 💬Connect with me:<br>
 
-   [<img align="left" alt="Github" width="32px" title="Github" src="https://www.flaticon.com/svg/vstatic/svg/25/25231.svg?token=exp=1612292921~hmac=6a17cd454b47f8ff605f2f5a842906ae" />](https://github.com/AjaiJA/)
+   [<img align="left" alt="Github" width="32px" title="Github" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" />](https://github.com/AjaiJA/)
    [<img align="left" alt="Stack Overflow" width="32px" title="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)
    [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
    [<img align="left" alt="Twitter" title="Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />](https://twitter.com/Ajai__JA)

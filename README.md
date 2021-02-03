@@ -15,7 +15,6 @@
    [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
    [<img align="left" alt="Twitter" title="Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />](https://twitter.com/Ajai__JA)
    [<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />](https://www.instagram.com/ajai_ja/)
-   [<img align="left" alt="Hackerrank" width="32px" title="Hacker Rank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" />](https://www.hackerrank.com/AjaiJA)
    
 <br>
 <br>

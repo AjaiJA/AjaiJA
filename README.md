@@ -8,7 +8,7 @@
   - ⚡ Focusing on something.
    
 
-### 💬Connect with me:<br>
+### Connect with me:<br>
 
    [<img align="left" alt="Github" width="32px" title="Github" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/github-512.png" />](https://github.com/AjaiJA/)
    [<img align="left" alt="Stack Overflow" width="32px" title="Stack Overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)

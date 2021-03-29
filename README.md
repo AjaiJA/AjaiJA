@@ -1,10 +1,10 @@
 ### Hi there👋, I'm *Ajai*.
    
-  - 🌱 currently learning Data Structures and LINUX.
+  - 🌱 currently learning Data Structures.
   - 🔭 currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*.
   - 💬 looking to collaborate with people, Who are ready to help each other.
   - 🤔 seeking for Experienced people who can guide me through the path which i want to be.
-  - 🥅 2021 Aims: To Learn Linux, TypeScript and AngularJS...
+  - 🥅 2021 Aims: To Learn TypeScript and AngularJS...
   - ⚡ Focusing on something.
    
 

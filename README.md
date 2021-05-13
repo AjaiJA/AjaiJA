@@ -8,6 +8,7 @@
    ⚡ Focusing on something.
    
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA)](https://github.com/AjaiJA)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&hide=contribs,prs)
 
 ### Connect with me:<br>
 

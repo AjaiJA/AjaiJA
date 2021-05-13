@@ -11,7 +11,7 @@
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&langs_count=28)](https://github.com/AjaiJA/)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)
       <a href="https://github.com/AjaiJA">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=AjaiJA" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
       </a>
 
 

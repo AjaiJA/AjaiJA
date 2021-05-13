@@ -10,7 +10,7 @@
       ![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=github-readme-stats)](https://github.com/AjaiJA/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA)](https://github.com/AjaiJA/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/AjaiJA/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&exclude_repo=https://github.com/AjaiJA/,https://github.com/AjaiJA/Django-PostgreSQL-Connection)](https://github.com/AjaiJA/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&hide=javascript,html)](https://github.com/AjaiJA/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&langs_count=8)](https://github.com/AjaiJA/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)

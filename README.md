@@ -10,6 +10,8 @@
       ![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&langs_count=28)](https://github.com/AjaiJA/)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)
+      [![Ajai J A 's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AjaiJA)](https://github.com/anuraghazra/github-readme-stats)
+
       <a href="https://github.com/AjaiJA/My-Projects">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
       </a>

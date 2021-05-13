@@ -1,6 +1,6 @@
 ### Hi there👋, I'm *Ajai*.
    
-   - 🌱 currently learning Data Structures.
+   - 🌱 Learning about Data Structures.
    - 🔭 currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*.
    - 💬 looking to collaborate with people, Who are ready to help each other.
    - 🤔 seeking for Experienced people who can guide me through the path which i want to be.

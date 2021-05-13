@@ -14,6 +14,7 @@
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&hide=javascript,html)](https://github.com/AjaiJA/)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&langs_count=28)](https://github.com/AjaiJA/)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me:<br>

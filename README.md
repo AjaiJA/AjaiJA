@@ -7,8 +7,8 @@
    🥅 2021 Aims: To Learn TypeScript and AngularJS...
    ⚡ Focusing on something.
    
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA)](https://github.com/AjaiJA)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&hide=contribs,prs)
+   [![Ajai J A 'S GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA)](https://github.com/AjaiJA)
+<!-- ![Ajai J A's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&hide=contribs,prs)-->
 
 ### Connect with me:<br>
 

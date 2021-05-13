@@ -8,7 +8,6 @@
    - ⚡ Focusing on something.
    
       ![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast)
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&langs_count=28)](https://github.com/AjaiJA/)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)
 
       <a href="https://github.com/AjaiJA/My-Projects">

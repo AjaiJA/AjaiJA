@@ -8,8 +8,7 @@
    - 🥅 2021 Aims: To Learn TypeScript and AngularJS...
    - ⚡ Focusing on something.
 
-   ![Dino Code](https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif/200/200)
-
+<img align="center" width="80" height="200" src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif" />
       <!-- ![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast&card_width=60)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)-->
 

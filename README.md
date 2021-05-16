@@ -14,7 +14,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
       </a>-->
 
-
+![Visitor Count](https://github.com/AjaiJA/)
 
 ### Connect with me:<br>
 

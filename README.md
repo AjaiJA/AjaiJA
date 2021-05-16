@@ -14,7 +14,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
       </a>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
+     <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
 
 ### Connect with me:<br>
 

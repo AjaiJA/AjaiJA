@@ -4,7 +4,7 @@
 <!--    - 🔭 currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*. -->
    - 💬 looking to collaborate with people, Who are ready to help each other.
    - 🤔 seeking for Experienced people who can guide me through the path which i want to be.
-   - 🥅 2021 Aims: To Learn TypeScript and AngularJS...
+   - 🥅 2021 Aims: To Learn Dart and React Native...
    - ⚡ Focusing on something.
 
       <!-- ![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast&card_width=60)

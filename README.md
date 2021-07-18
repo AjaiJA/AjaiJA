@@ -15,6 +15,7 @@
 <!-- <a href="https://github.com/AjaiJA/My-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
 </a>-->
+<br />
 
 ### Connect with me:<br>
 
@@ -24,5 +25,5 @@
    [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
    <!--[<img align="left" alt="Twitter" title="Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />]--><!--(https://twitter.com/Ajai__JA)-->
 
-<br>
-<br>
+<br />
+<br />

@@ -13,9 +13,9 @@
 <!-- <a href="https://github.com/AjaiJA/My-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
 </a>-->
-
+<br /><br />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
-
+<br />
 ### Connect with me:<br>
 
    [<img align="left" alt="Github" width="32px" title="Github" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/github-512.png" />](https://github.com/AjaiJA/)

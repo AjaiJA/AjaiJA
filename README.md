@@ -7,10 +7,9 @@
    - 🥅 2021 Aims: To Learn ElectronJS and React Native.
    - ⚡ Focusing on something.
 
-<!--       ![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast&card_width=60)
+      <!--![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast&card_width=60)
       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/) -->
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjaiJA&show_icons=true&locale=en&layout=compact" alt="Ajai J A" width="400"/></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjaiJA&show_icons=true&locale=en&layout=compact" alt="Ajai J A" width="400"/></p>
       <!-- <a href="https://github.com/AjaiJA/My-Projects">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
       </a>-->

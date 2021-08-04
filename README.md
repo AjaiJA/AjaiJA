@@ -23,7 +23,7 @@
    [<img align="left" alt="Stack Overflow" width="32px" title="Stack Overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)
    [<img align="left" alt="Bit Bucket" width="32px" title="Bit Bucket" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" />](https://bitbucket.org/dashboard/projects)
    [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
-<!--    [<img align="left" alt="Twitter" title="Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />](https://twitter.com/Ajai__JA) -->
+   [<img align="left" alt="Twitter" title="Twitter" width="32px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" />](https://twitter.com/Ajai__JA)
 
 <br />
 <br /> 

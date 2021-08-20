@@ -1,8 +1,8 @@
 ## Hi there👋, I'm *Ajai*.
    
+   - 🌱 Learning about Data Structures.
    - 🔭 currently pursuing my **MCA** at ***PSG College of Technology***, *Coimbatore*.
    - 🥅 2021 Aims: To Learn ElectronJS and React Native.
-   - 🌱 Learning about Data Structures.
    - 💬 looking to collaborate with people, Who are ready to help each other.
    - 🤔 seeking for people who can guide me through the path which i want to be.
    - ⚡ Focusing on something.

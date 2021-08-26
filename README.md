@@ -1,11 +1,11 @@
 ## Hi there👋, I'm *Ajai*.
    
-<!--    - 🌱 Learning about Data Structures.
+   - 🌱 Learning about Data Structures.
    - 🔭 currently pursuing **MCA** at ***PSG College of Technology***, *Coimbatore*.
    - 💬 looking to collaborate with people, Who are ready to help each other.
    - 🤔 seeking for people who can guide me through the path which i want to be.
    - 🥅 2021 Aims: To Learn Typescript and React Native.
-   - ⚡ Focusing on something. -->
+   - ⚡ Focusing on something.
    
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
 

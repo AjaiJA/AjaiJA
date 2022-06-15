@@ -1,4 +1,4 @@
-## Hi there👋, I'm *Ajai*.
+## Hi there👋, I'm *Ajai J A*.
    
    - 🌱 Learning *.
    - 🔭 currently pursuing **MCA** at ***PSG College of Technology***, *Coimbatore*.

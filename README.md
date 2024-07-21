@@ -9,8 +9,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
 
 <!--![Ajai J A 's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjaiJA&show_icons=true&theme=highcontrast&card_width=60)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjaiJA&show_icons=true&locale=en&layout=compact" alt="Ajai J A" width="400"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaiJA&layout=compact)](https://github.com/AjaiJA/)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AjaiJA&show_icons=true&locale=en&layout=compact" alt="Ajai J A" width="400"/>-->
  <!--<a href="https://github.com/AjaiJA/My-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
 </a>-->

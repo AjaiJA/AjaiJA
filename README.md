@@ -11,7 +11,7 @@
 - 📱 Web and mobile app development (React, React Native, Node.js, etc.)
 - ⚙️ API design and backend systems
 - 🚀 Performance optimization and system architecture
-- 🧪 Testing, CI/CD, and DevOps automation
+- 🧪 Testing
 - 🧠 Projects focused on learning, innovation, or community impact
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>

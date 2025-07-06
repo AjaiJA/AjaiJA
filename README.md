@@ -34,6 +34,6 @@
 
 🔗 **Let’s Connect!**
 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/ajaija/) &nbsp;&nbsp;&nbsp;
-[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](http://www.instagram.com/ajai_ja/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" alt="LinkedIn" />](https://www.linkedin.com/in/ajaija/) &nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" alt="Instagram" />](http://www.instagram.com/ajai_ja/)
 

@@ -33,8 +33,9 @@
 </a>-->
 
 🔗 **Connect with me:**
-   [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
-   [<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />]([https://www.linkedin.com/in/ajaija/](http://www.instagram.com/ajai_ja/))
+
+  [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
+  [<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />]([https://www.linkedin.com/in/ajaija/](http://www.instagram.com/ajai_ja/))
 
 
 <br />

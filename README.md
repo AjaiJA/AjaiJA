@@ -1,18 +1,22 @@
-## Hi there👋, I'm *Ajai J A*.
-   
-   - 🌱 Learning *.
-   - 💬 looking to collaborate with people, Who are ready to help each other.
-   - 🤔 seeking for people who can guide me through the path which i want to be.
-   - ⚡ Focusing on something.
+### 👋 Hi there, I'm Ajai J A
+
+I'm a passionate **Software Development Engineer** with over **7 years of experience** building high-performance **web and mobile applications**. I specialize in developing scalable, reliable, and maintainable solutions using modern frameworks and best practices.
+
+#### 💻 Tech Stack & Expertise:
+- **Frontend:** React, TypeScript
+- **Backend:** Node.js, Express, Django, Spring Boot
+- **Mobile:** React Native, Flutter
+- **Databases:** PostgreSQL, MongoDB
+- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Others:** REST APIs, GraphQL, Microservices, Clean Architecture
 
 ### 🤝 I'm Open to Collaborating On
 
-- 🧩 Interesting open-source projects
-- 📱 Web and mobile app development (React, React Native, Node.js, etc.)
-- ⚙️ API design and backend systems
-- 🚀 Performance optimization and system architecture
-- 🧪 Testing
-- 🧠 Projects focused on learning, innovation, or community impact
+- 🌐 Full-stack applications
+- 🛠 Scalable backend services and APIs
+- ⚙️ Performance tuning and architecture optimization
+- 📦 Open-source tools and libraries
+- 🧠 Innovative or learning-focused side projects
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
 
@@ -23,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
 </a>-->
 
-### Connect with me:<br>
+🔗 **Connect with me:**
 
    [<img align="left" alt="Github" width="32px" title="Github" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/github-512.png" />](https://github.com/AjaiJA/)
    [<img align="left" alt="Stack Overflow" width="32px" title="Stack Overflow" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Stack_Overflow-512.png" />](https://stackoverflow.com/users/12341806/ajaija?tab=profile)

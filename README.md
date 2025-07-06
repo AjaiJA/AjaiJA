@@ -18,7 +18,7 @@
 
 ### 🤝 I'm Open to Collaborating On
 
- 🌐 Full-stack applications
+  🌐 Full-stack applications
 - 🛠 Scalable backend services and APIs
 - ⚙️ Performance tuning and architecture optimization
 - 📦 Open-source tools and libraries

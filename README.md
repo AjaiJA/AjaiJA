@@ -16,13 +16,7 @@
 #### 🛠 Development Practices:
 - Test-Driven Development (TDD), Agile Development, Continuous Integration
 
-### 🤝 I'm Open to Collaborating On
-
-- 🌐 Full-stack applications
-- 🛠 Scalable backend services and APIs
-- ⚙️ Performance tuning and architecture optimization
-- 📦 Open-source tools and libraries
-- 🧠 Innovative or learning-focused side projects
+🤝 **I'm Open to Collaborating On:** 🌐 Full-stack applications | 🛠 Scalable backend services and APIs | ⚙️ Performance tuning and architecture optimization | 📦 Open-source tools and libraries | 🧠 Innovative or learning-focused side projects
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AjaiJA&label=Profile%20views&color=0e75b6&style=flat" alt="Ajai J A" /> </p>
 

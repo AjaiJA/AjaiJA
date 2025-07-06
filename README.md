@@ -34,12 +34,6 @@
 
 🔗 **Let’s Connect!**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajaija/" title="LinkedIn" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="32" style="margin-right: 30px;" />
-  </a>
-  <a href="http://www.instagram.com/ajai_ja/" title="Instagram" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" width="32" />
-  </a>
-</p>
+| [![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/ajaija/) | [![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](http://www.instagram.com/ajai_ja/) |
+|---|---|
 

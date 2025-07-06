@@ -34,7 +34,7 @@
 
 🔗 **Connect with me:**
 
-  [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />](https://www.linkedin.com/in/ajaija/)
+  [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />](https://www.linkedin.com/in/ajaija/))
   [<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />](http://www.instagram.com/ajai_ja/))
 
 

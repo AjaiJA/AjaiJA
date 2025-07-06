@@ -1,14 +1,20 @@
 ### 👋 Hi there, I'm Ajai J A
 
-I'm a passionate **Software Development Engineer** with over **7 years of experience** building high-performance **web and mobile applications**. I specialize in developing scalable, reliable, and maintainable solutions using modern frameworks and best practices.
+ A passionate **Software Development Engineer** with over **4 years of experience** building high-performance **web and mobile applications**. I focus on designing and developing **scalable, reliable, and maintainable software solutions** using modern frameworks, clean architecture principles, and industry best practices.
 
 #### 💻 Tech Stack & Expertise:
-- **Frontend:** React, TypeScript
-- **Backend:** Node.js, Express, Django, Spring Boot
-- **Mobile:** React Native, Flutter
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps:** Docker, GitHub Actions, CI/CD
-- **Others:** REST APIs, GraphQL, Microservices, Clean Architecture
+- **Frontend:** React, TypeScript, Tailwind CSS, Storybook  
+- **Backend:** Node.js, Express, Django, Golang 
+- **Full-Stack Framework:** Next.js
+- **Mobile:** React Native, Flutter  
+- **Databases:** PostgreSQL, MongoDB  
+- **DevOps & Tools:** Docker, GitHub Actions
+
+#### 🧱 Architecture & Patterns:
+- REST APIs, GraphQL, Microservices, Clean Architecture  
+
+#### 🛠 Development Practices:
+- Test-Driven Development (TDD), Agile Development, Continuous Integration
 
 ### 🤝 I'm Open to Collaborating On
 

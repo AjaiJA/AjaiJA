@@ -33,12 +33,9 @@
 </a>-->
 
 🔗 **Connect with me:**
-
-   [<img align="left" alt="Github" width="32px" title="Github" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/github-512.png" />](https://github.com/AjaiJA/)
    [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG24.png" />](https://www.linkedin.com/in/ajaija/)
-   <p align="left">
-    <a href="https://www.linkedin.com/in/ajaija" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>       <a href="http://www.instagram.com/ajai_ja/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a>
-   </p>
+   [<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />]([https://www.linkedin.com/in/ajaija/](http://www.instagram.com/ajai_ja/))
+
 
 <br />
 <br /> 

@@ -32,11 +32,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AjaiJA&repo=My-Projects" />
 </a>-->
 
-🔗 **Connect with me:**
+🔗 **Let’s Connect!**
 
-  [<img align="left" alt="LinkedIn" width="32px" title="LinkedIN" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />](https://www.linkedin.com/in/ajaija/)
-  [<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />](http://www.instagram.com/ajai_ja/)
+[<img align="left" alt="LinkedIn" width="32px" title="LinkedIn" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />](https://www.linkedin.com/in/ajaija/)  
+[<img align="left" alt="Instagram" width="32px" title="Instagram" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />](http://www.instagram.com/ajai_ja/)  
 
+<br clear="both" />
 
-<br />
-<br /> 

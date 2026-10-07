@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Ajai J A
 
- A passionate **Software Development Engineer** with over **4 years of experience** building high-performance **web and mobile applications**. I focus on designing and developing **scalable, reliable, and maintainable software solutions** using modern frameworks, clean architecture principles, and industry best practices.
+ A passionate **Software Development Engineer** with over **7 years of experience** building high-performance **web and mobile applications**. I focus on designing and developing **scalable, reliable, and maintainable software solutions** using modern frameworks, clean architecture principles, and industry best practices.
 
 #### 💻 Tech Stack & Expertise:
 - **Frontend:** React, TypeScript, Tailwind CSS, Storybook  
